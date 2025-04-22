@@ -1,3 +1,9 @@
+//
+// Server.js
+// Created by Scott Mitchell on 04/25/2025
+// Block 32 - The Acme Ice Cream Shop
+//
+
 const express = require("express");
 const pg = require("pg");
 
